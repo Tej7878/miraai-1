@@ -156,7 +156,7 @@ export default function ContactPage() {
                 onClick={handleWhatsApp}
                 className="w-full py-3.5 px-6 rounded-2xl bg-[#25D366] hover:bg-[#20bd5a] text-black font-extrabold text-sm flex items-center justify-center gap-2 transition-all shadow-[0_0_25px_rgba(37,211,102,0.35)] cursor-pointer"
               >
-                <span>Chat on WhatsApp (+91 81410 80001)</span>
+                <span>Chat on WhatsApp (+91 94290 67217)</span>
                 <span>→</span>
               </button>
             </div>
@@ -363,7 +363,7 @@ export default function ContactPage() {
                       onClick={handleWhatsApp}
                       className="w-full py-3 px-6 rounded-2xl bg-[#25D366]/15 hover:bg-[#25D366]/25 border border-[#25D366]/40 text-[#25D366] font-bold text-xs flex items-center justify-center gap-2 transition-all cursor-pointer"
                     >
-                      <span>Instant Chat on WhatsApp (+91 81410 80001)</span>
+                      <span>Instant Chat on WhatsApp (+91 94290 67217)</span>
                       <span>💬</span>
                     </button>
                   </div>

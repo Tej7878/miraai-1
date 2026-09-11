@@ -64,7 +64,7 @@ export default function Calltoaction() {
     const text = encodeURIComponent(
       `Hello Renew Tex AI Worlds! My name is ${formData.fullName || 'Client'}${formData.companyName ? ` from ${formData.companyName}` : ''}. I would like to discuss commercial visual production.`
     );
-    window.open(`https://wa.me/918141080001?text=${text}`, '_blank');
+    window.open(`https://wa.me/919429067217?text=${text}`, '_blank');
   };
 
   const handleSubmit = async (e) => {
@@ -363,7 +363,7 @@ export default function Calltoaction() {
                   onClick={handleWhatsApp}
                   className="py-3 px-6 rounded-full bg-[#25D366]/15 hover:bg-[#25D366]/25 border border-[#25D366]/40 text-[#25D366] font-bold text-xs flex items-center justify-center gap-2 transition-all cursor-pointer"
                 >
-                  <span>WhatsApp (+91 81410 80001)</span>
+                  <span>WhatsApp (+91 94290 67217)</span>
                   <span>💬</span>
                 </button>
               </div>

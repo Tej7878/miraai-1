@@ -51,8 +51,8 @@ const Form = ({ isOpen, onClose }) => {
 
     const COMPANY_DETAILS = {
         email: 'Info.renewtexaiworlds@gmail.com',
-        phone: '+91 81410 80001',
-        whatsappNumber: '918141080001',
+        phone: '+91 94290 67217',
+        whatsappNumber: '919429067217',
         companyName: 'RenewTex AI Worlds'
     };
 
@@ -337,7 +337,7 @@ const Form = ({ isOpen, onClose }) => {
                             onClick={handleWhatsApp}
                             className="w-full sm:w-auto py-2.5 px-6 rounded-full bg-[#25D366]/15 hover:bg-[#25D366]/25 border border-[#25D366]/40 text-[#25D366] font-semibold text-xs flex items-center justify-center gap-2 transition-all cursor-pointer"
                         >
-                            <span>Chat directly on WhatsApp (+91 81410 80001)</span>
+                            <span>Chat directly on WhatsApp (+91 94290 67217)</span>
                             <span>💬</span>
                         </button>
                     </div>
