@@ -7,8 +7,8 @@ import Form from '../components/form';
 
 const COMPANY_DETAILS = {
   email: 'Info.renewtexaiworlds@gmail.com',
-  phone: '+91 81410 80001',
-  whatsappNumber: '918141080001',
+  phone: '+91 94290 67217',
+  whatsappNumber: '919429067217',
   companyName: 'RenewTex AI Worlds'
 };
 
